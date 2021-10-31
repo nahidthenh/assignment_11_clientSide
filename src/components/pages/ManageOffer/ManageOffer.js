@@ -28,7 +28,7 @@ const ManageOffer = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-12 text-center mt-5">
-            <h2>Manage Offers</h2>
+            <h2>Manage Offers | Delete</h2>
             <p>
               Here you can Delete your offer Which is not available right now !!
             </p>
