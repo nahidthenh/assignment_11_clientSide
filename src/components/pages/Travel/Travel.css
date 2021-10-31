@@ -1,0 +1,7 @@
+.travel-item.shadow img {
+    height: 300px;
+    width: 100%;
+}
+.travel-item.shadow {
+    padding: 30px !important;
+}

@@ -1,5 +1,5 @@
 .banner {
-  background-image: url("../../../images/slider2_2.jpg"),
+  background-image: url("../../../images/slider1_3.jpg"),
     linear-gradient(rgb(25 62 90 / 50%), rgb(76 54 9 / 50%));
   width: 100%;
   background-blend-mode: overlay;
@@ -12,21 +12,28 @@
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
+
 .banner-text {
-  justify-content: center;
   margin: 30px;
+  text-align: left;
 }
+
 .banner-text h5 {
   font-size: 18px !important;
   font-weight: normal;
 }
+
 .banner-text h1 {
-  font-size: 43px;
+  font-size: 83px;
+  font-weight: bold;
+  margin-bottom: 15px;
 }
+
 .banner-text p {
   font-size: 16px;
   font-weight: normal;
 }
+
 .btn-style {
   text-align: left;
   line-height: 25px;
@@ -38,8 +45,9 @@
   border-radius: 60px;
   padding: 16px 32px;
   color: #ffffff;
-  background-color: #396fe0;
+  background-color: #000;
 }
+
 .btn-style:hover {
   background-color: rgb(34, 34, 34);
 }

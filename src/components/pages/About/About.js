@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImg from "../../../images/img_hotspot.png";
+import aboutImg from "../../../images/package-1-1024x640.jpg";
 const About = () => {
   return (
     <div>
@@ -13,7 +13,7 @@ const About = () => {
               inside the walls that were built by the Romans. This area is still
               called the City of London. There were many villages around it and
               gradually they joined.
-            </span>
+            </span> <br />
             <button className="btn-style mt-3">View All Tour</button>
           </div>
           <div className="col-md-6">

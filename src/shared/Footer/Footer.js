@@ -44,7 +44,7 @@ const Footer = () => {
             </div>
             <div className="col-md-3">
               <h4 className="mb-3">
-                <img src={logo} alt="" />
+                <img className="img-fluid" src={logo} alt="" />
               </h4>
               <p>
                 But I must explain to you how all this mistaken idea of
@@ -54,7 +54,7 @@ const Footer = () => {
           </div>
           <div className="row">
             <div className="footer-copyright">
-              <p className="mt-3">Travesia &copy; 2021. All Rights Reserved.</p>
+              <p className="mt-3">Travelkori &copy; 2021. All Rights Reserved.</p>
             </div>
           </div>
         </div>

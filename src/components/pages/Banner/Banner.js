@@ -8,8 +8,9 @@ const Banner = () => {
           <div className="row py-5">
             <div className="col-md-12">
               <div className="banner-text">
-                <h5>WHAT NEXT COUNTRY?</h5>
-                <h1>Venice Romantic Tour</h1>
+                <h1> LOVE & Travel</h1>
+                <h5>TAKE ADVANTAGE OF THIS AMAZING EXCLUSIVE OFFER
+                  DON'T MISS THIS OPPORTUNITY FOR YOUR BUSINESS</h5>
                 <p>
                   For a long time, London was a small city. All its people lived
                   inside the walls that were built by the Romans. This area is

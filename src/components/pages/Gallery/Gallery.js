@@ -1,7 +1,7 @@
 import React from "react";
-import tour1 from "../../../images/tour1.jpg";
-import tour2 from "../../../images/tour2.jpg";
-import tour3 from "../../../images/tour3.jpg";
+import tour1 from "../../../images/package-2-1024x640.jpg";
+import tour2 from "../../../images/package-1-1024x640.jpg";
+import tour3 from "../../../images/package-6-1024x640.jpg";
 import tour4 from "../../../images/tour4.jpg";
 import "./Gallery.css";
 const Gallery = () => {
