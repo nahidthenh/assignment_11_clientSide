@@ -36,6 +36,7 @@ const Header = () => {
               <Nav.Link as={HashLink} to="/feature">
                 Features
               </Nav.Link>
+              
               {user.email && (
                 <Nav.Link as={HashLink} to="/addOffer">
                   Add Offer
@@ -46,6 +47,12 @@ const Header = () => {
                   Manage Offer
                 </Nav.Link>
               )}
+              <Nav.Link as={HashLink} to="/blog">
+                Blog
+              </Nav.Link>
+              <Nav.Link as={HashLink} to="/contact">
+                Contact Us
+              </Nav.Link>
             </Nav>
             <span className="mt-2  me-2 text-white"> {user.displayName} </span>
             {user.email ? (

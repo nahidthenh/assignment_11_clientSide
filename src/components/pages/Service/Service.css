@@ -8,11 +8,20 @@
 .service-text p {
   margin-left: -10px !important;
 }
-.service-card:hover img {
+/* .service-card:hover img {
   overflow: hidden;
   transform: scale(1.2);
   transition: transform 0.3s;
-}
+} */
 .services {
   padding: 50px 0;
+}
+
+.dflex {
+  display: flex !important;
+  justify-content: space-between;
+}
+.service-card.pb-5 img {
+  height: 250px;
+  width: 100%;
 }

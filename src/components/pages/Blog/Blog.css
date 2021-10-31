@@ -13,3 +13,13 @@
   font-family: "Poppins", sans-serif;
   font-weight: 600;
 }
+
+
+.travel-item.shadow img {
+  height: 300px;
+  width: 100%;
+}
+
+.travel-item.shadow {
+  padding: 30px !important;
+}
